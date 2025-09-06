@@ -27,11 +27,6 @@ UI Design: Tailwind for styling & responsive layout
 
 ⚙️ Installation
 
-Clone this repository
-
-git clone https://github.com/your-username/warehouse-inventory.git
-
-
 Navigate to the project folder
 
 cd warehouse-inventory
